@@ -18,7 +18,7 @@ public class Removeduplicates {
 	
 
 	public static void main(String[] args) {
-		int[]a= {1,2,2,3,4,5,5,5,6,7,1};
+		int []a= {6,10,1,8,3,8,14};
 		function(a);
 		
 
